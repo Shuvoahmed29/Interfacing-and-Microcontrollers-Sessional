@@ -1,1 +1,1 @@
-Only Check .c file.
+Only check the .c file and practice that.
